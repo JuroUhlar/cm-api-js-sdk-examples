@@ -1,0 +1,20 @@
+{
+  "name": "cm_api_js_sdk",
+  "version": "1.0.0",
+  "description": "Code examples for CM API JS SDK",
+  "main": "createItem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juraj Uhlar",
+  "license": "MIT",
+  "dependencies": {
+    "kentico-cloud-content-management": "0.0.4",
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.9.5",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}
